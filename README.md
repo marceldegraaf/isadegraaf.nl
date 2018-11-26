@@ -1,2 +1,3 @@
-# isadegraaf.nl
-Website for Isa de Graaf
+# Isa de Graaf
+
+Website for Isa de Graaf.
